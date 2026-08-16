@@ -29,23 +29,23 @@ The dashboards transform fleet data into visual insights that can help stakehold
 
 ##  Dashboard 1
 
-![Fleet Dashboard 1](Screenshot (2).png)
+![Fleet Dashboard 1](DASHBOARD-1-Screenshot (2).png)
 
 ##  Dashboard 2
 
-![Fleet Dashboard 2](Screenshot (3).png)
+![Fleet Dashboard 2](DASHBOARD-2-Screenshot (3).png)
 
 ##  Dashboard 3
 
-![Fleet Dashboard 3](Screenshot (4).png)
+![Fleet Dashboard 3](DASHBOARD-3-Screenshot (4).png)
 
 ## Dashboard 4
 
-![Fleet Dashboard 4](Screenshot (5).png)
+![Fleet Dashboard 4](DASHBOARD-4-Screenshot (5).png)
 
 ##  Dashboard 5
 
-![Fleet Dashboard 5](Screenshot (6).png)
+![Fleet Dashboard 5](DASHBOARD-5-Screenshot (6).png)
 
 ##  Business Value
 
