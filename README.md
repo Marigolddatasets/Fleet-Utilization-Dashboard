@@ -29,7 +29,7 @@ The dashboards transform fleet data into visual insights that can help stakehold
 
 ##  Dashboard 1
 
-![Fleet Dashboard 1](fleet-dashboard-1.https://github.com/Marigolddatasets/Fleet-Utilization-Dashboard/blob/main/Screenshot%20(2).png)
+![Fleet Dashboard 1](fleet-dashboard-1.https://Fleet-Utilization-Dashboard/blob/main/Screenshot%20(2).png)
 
 ##  Dashboard 2
 
